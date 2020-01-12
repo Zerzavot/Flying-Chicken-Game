@@ -36,5 +36,7 @@ Finally Change the path: **loadImage("src/javaoyunum7/newBackGround.jpg")**
 * You can run the project with Board.java
 
 
-### :)
-You can add components as you wish when developing a game. Have fun!
+### Imagination
+You can add components as you wish when developing a game. For example can be a second bad character like  dog.java<br>
+Or level logic and interface logic is improvable.. 
+Have fun! :))
