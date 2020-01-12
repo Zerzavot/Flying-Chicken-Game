@@ -38,5 +38,5 @@ Finally Change the path: **loadImage("src/javaoyunum7/newBackGround.jpg")**
 
 ### Imagination
 You can add components as you wish when developing a game. For example can be a second bad character like  dog.java<br>
-Or level logic and interface logic is improvable.. 
+Or level and interface logic is improvable.. <br>
 Have fun! :))
