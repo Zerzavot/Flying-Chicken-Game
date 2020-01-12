@@ -12,6 +12,11 @@ If you collide with them, game over.
 - We have two kind of target. One of them is more valuable.
 - We have some levels depends on amount of score
 
+### Screenshots
+
+![FlyingChicken](https://user-images.githubusercontent.com/50207648/72217577-00c0c080-3541-11ea-903b-e08ef8751762.png)
+![FlyChi2](https://user-images.githubusercontent.com/50207648/72217578-00c0c080-3541-11ea-8ead-8d9a9e673d08.png)
+
 
 ### How can we run the program? 
 * You should make a new java project in NetBeans.
