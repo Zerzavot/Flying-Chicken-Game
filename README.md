@@ -13,6 +13,10 @@ If you collide with them, game over.
 - We have some levels depends on amount of score
 
 ### Screenshots
+Optinally you can use two kind of game.:
+<br> * Basic version is we have only one type of target.
+<br> * Second version is we have two type of target
+<br>*Default is second one. But if you delete **TargetSmall.java** file, you can reach the first one -mean basic version-*
 
 ![FlyingChicken](https://user-images.githubusercontent.com/50207648/72217577-00c0c080-3541-11ea-903b-e08ef8751762.png)
 ![FlyChi2](https://user-images.githubusercontent.com/50207648/72217578-00c0c080-3541-11ea-8ead-8d9a9e673d08.png)
@@ -32,3 +36,5 @@ Finally Change the path: **loadImage("src/javaoyunum7/newBackGround.jpg")**
 * You can run the project with Board.java
 
 
+### :)
+You can add components as you wish when developing a game. Have fun!
